@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Nikita" Height="450" Width="850">
     <Grid>
-        <Button></Button>
+        <Button>Добавить</Button>
     </Grid>
 </Window>
